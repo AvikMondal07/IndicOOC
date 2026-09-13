@@ -1,0 +1,8 @@
+streamlit>=1.36
+transformers>=4.42
+torch>=2.2
+pillow>=10.0
+pandas>=2.0
+requests>=2.31
+accelerate>=0.30
+sentencepiece>=0.2
