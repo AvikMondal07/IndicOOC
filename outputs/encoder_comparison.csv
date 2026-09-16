@@ -1,0 +1,10 @@
+encoder,claim_language,n,macro_f1,accuracy,mean_score_supported,mean_score_ooc
+SigLIP (English-trained),bn,4,0.333,0.5,0.1304,0.1439
+SigLIP (multilingual),bn,4,0.2,0.25,0.5314,0.8333
+SigLIP 2,bn,4,0.333,0.5,0.1215,0.1932
+SigLIP (English-trained),hi,3,0.25,0.333,0.0006,0.0055
+SigLIP (multilingual),hi,3,0.25,0.333,0.4434,0.0128
+SigLIP 2,hi,3,0.667,0.667,0.2896,0.0145
+SigLIP (English-trained),mr,2,,1.0,,0.0
+SigLIP (multilingual),mr,2,,1.0,,0.1464
+SigLIP 2,mr,2,,1.0,,0.2955
